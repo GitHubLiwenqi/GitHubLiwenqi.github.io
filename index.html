@@ -6,5 +6,31 @@
         <h2>One of my bilibili video.</h2>
         <iframe src="//player.bilibili.com/player.html?aid=65065460&bvid=BV1j4411r7ie&cid=112933209&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
         <p>I will update more archives on website. Welcome!!!</p>
+        
+        <!-- 1.live2d看板娘安排上 -->
+		<script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
+		<script>
+			L2Dwidget.init({
+				"model": {
+					jsonPath: "https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json",<!--这里改模型，前面后面都要改-->
+					"scale": 0.5
+				},
+				"display": {
+					"position": "right",<!--设置看板娘的上下左右位置-->
+					"width": 300,
+					"height": 600,
+					"hOffset": 0,
+					"vOffset": -20
+				},
+				"mobile": {
+					"show": true,
+					"scale": 0.5
+				},
+				"react": {
+					"opacityDefault": 0.7,<!--设置透明度-->
+					"opacityOnHover": 0.2
+				}
+			});
+		</script>
     </body>
 </html>
