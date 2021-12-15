@@ -28,7 +28,16 @@ You can find me in:
  
 
 ## 论文翻译及阅读
-|类别|阅读笔记|
-|---|---|
+
+<table>
+    <tr>
+        <th>类别</th>
+        <th>阅读笔记</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 
