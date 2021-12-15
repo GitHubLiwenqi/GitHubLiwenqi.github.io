@@ -13,9 +13,19 @@ You can find me in:
 
 ## Some of my bilibili videos.  
 
-|Matlab第一期sin函数绘制|Markdown简单入门|看机器人啦|
-|----|----|----|
-|<iframe src="//player.bilibili.com/player.html?aid=65065460&bvid=BV1j4411r7ie&cid=112933209&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>|<iframe src="//player.bilibili.com/player.html?aid=795597097&bvid=BV1oC4y1W7TM&cid=188078397&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>|<iframe src="//player.bilibili.com/player.html?aid=64455516&bvid=BV1M4411Z7Pa&cid=111905216&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>|  
+<table>
+    <tr>
+        <th>Matlab第一期sin函数绘制</th>
+        <th>Markdown简单入门</th>
+        <th>看机器人啦</th>
+    </tr>
+    <tr>
+        <td><iframe src="//player.bilibili.com/player.html?aid=65065460&bvid=BV1j4411r7ie&cid=112933209&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></td>
+        <td><iframe src="//player.bilibili.com/player.html?aid=795597097&bvid=BV1oC4y1W7TM&cid=188078397&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></td>
+        <td><iframe src="//player.bilibili.com/player.html?aid=64455516&bvid=BV1M4411Z7Pa&cid=111905216&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></td>
+    </tr>
+</table>
+ 
 
 ## 论文翻译及阅读
 |类别|阅读笔记|
