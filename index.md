@@ -8,6 +8,9 @@ You can find me in:
 <html><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1368934278&auto=1&height=66"></iframe></html>
 
 ---
+important hyperlinks here：  
+![大事记](./news)  ,   ![英语积累](./english)  ， 看板娘...
+
 Some of my bilibili videos.  
 |Matlab第一期sin函数绘制|Markdown简单入门|看机器人啦|
 |---|---|
