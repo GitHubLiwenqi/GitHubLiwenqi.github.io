@@ -8,6 +8,11 @@ You can find me in:
 <html><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1368934278&auto=1&height=66"></iframe></html>
 
 ---
+Some of my bilibili videos.  
+|Matlab第一期sin函数绘制|Markdown简单入门|看机器人啦|
+|---|---|
+|<iframe src="//player.bilibili.com/player.html?aid=65065460&bvid=BV1j4411r7ie&cid=112933209&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>|<iframe src="//player.bilibili.com/player.html?aid=795597097&bvid=BV1oC4y1W7TM&cid=188078397&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>|<iframe src="//player.bilibili.com/player.html?aid=64455516&bvid=BV1M4411Z7Pa&cid=111905216&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>|  
+
 论文翻译
 |类别|阅读笔记|
 |---|---|
