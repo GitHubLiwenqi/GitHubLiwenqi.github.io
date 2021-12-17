@@ -6,7 +6,7 @@
 
         <script>
             $.get('translation.md', function(response, status, xhr){
-                $("#content").html(marked(response));
+                $("#content").html(marked.parse(response));
             });
         </script>
     </body>
