@@ -9,7 +9,11 @@ You can find me in:
 
 ---
 ## important hyperlinks here：  
-[大事记](./news)  ,   [英语积累](./english)  ， [论文翻译及总结](./paper)，看板娘...
++ [大事记](./news)  
++ [英语积累](./english)  
++ [论文翻译及总结](./paper)
++ [ceph](./ceph)
++ 看板娘...
 
 ## Some of my bilibili videos.  
 
